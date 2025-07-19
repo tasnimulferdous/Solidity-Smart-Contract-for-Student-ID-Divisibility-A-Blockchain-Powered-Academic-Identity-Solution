@@ -91,7 +91,7 @@ NatSpec Comments: Enhance code readability and documentation.
 
 Prerequisites
 
-Basic programming knowledge (e.g., JavaScript, C++).
+Basic programming knowledge.
 Understanding of blockchain concepts (Ethereum, EVM).
 Web browser (Google Chrome or Firefox recommended).
 Remix IDE (https://remix.ethereum.org/).
